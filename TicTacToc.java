@@ -29,7 +29,6 @@ public class TicTacToc {
 		        System.out.println(gameBoard[6] + " | " + gameBoard[7] + " | " + gameBoard[8]);
 		    }
 		public static void main(String[] args) {
-			// TODO Auto-generated method stub
 			declareArray();
 			user(scanner);
 			showBoard();
