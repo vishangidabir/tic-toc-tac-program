@@ -1,7 +1,6 @@
 package com.bridgelabz;
 import java.util.Scanner;
 public class TicTacToc {
-
 		// UC1 : Create board of char of size 10
 		public static char[] gameArray = new char[10];
 		public static Scanner scanner = new Scanner(System.in);
